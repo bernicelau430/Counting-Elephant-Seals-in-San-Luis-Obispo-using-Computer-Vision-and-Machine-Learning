@@ -1,0 +1,9 @@
+matplotlib
+pyproj
+pandas
+jupyterlab
+scikit-image
+bs4
+h5py
+lxml
+sklearn
